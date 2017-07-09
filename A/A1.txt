@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 make 1 change in upstram
+=======
+make change from branch1
+>>>>>>> branch1
